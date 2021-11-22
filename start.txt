@@ -1,5 +1,7 @@
 Старт
 main
+main
+git 
 git 
 *****
 /////
