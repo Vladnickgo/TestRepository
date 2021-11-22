@@ -1,12 +1,12 @@
 Старт
-<<<<<<< HEAD
+
 main
 main
 git 
-=======
+
 feature
 feature
->>>>>>> feature
+
 git 
 *****
 /////
